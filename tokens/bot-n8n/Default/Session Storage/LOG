@@ -1,2 +1,3 @@
-2025/06/07-01:14:13.771 109da8f Creating DB /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/Session Storage since it was missing.
-2025/06/07-01:14:13.779 109da8f Reusing MANIFEST /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/Session Storage/MANIFEST-000001
+2025/06/08-12:27:26.144 1181e71 Reusing MANIFEST /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/Session Storage/MANIFEST-000001
+2025/06/08-12:27:26.145 1181e71 Recovering log #3
+2025/06/08-12:27:26.145 1181e71 Reusing old log /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/Session Storage/000003.log 

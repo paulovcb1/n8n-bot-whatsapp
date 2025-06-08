@@ -1,2 +1,3 @@
-2025/06/07-01:14:14.112 109da5f Creating DB /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/Extension State since it was missing.
-2025/06/07-01:14:14.124 109da5f Reusing MANIFEST /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/Extension State/MANIFEST-000001
+2025/06/08-12:27:26.303 1181e19 Reusing MANIFEST /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/Extension State/MANIFEST-000001
+2025/06/08-12:27:26.303 1181e19 Recovering log #3
+2025/06/08-12:27:26.304 1181e19 Reusing old log /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/Extension State/000003.log 

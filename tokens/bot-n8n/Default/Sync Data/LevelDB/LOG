@@ -1,2 +1,3 @@
-2025/06/07-01:14:13.186 109da4f Creating DB /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/Sync Data/LevelDB since it was missing.
-2025/06/07-01:14:13.229 109da4f Reusing MANIFEST /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/06/08-12:27:25.788 1181e19 Reusing MANIFEST /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/06/08-12:27:25.803 1181e19 Recovering log #3
+2025/06/08-12:27:25.803 1181e19 Reusing old log /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/Sync Data/LevelDB/000003.log 

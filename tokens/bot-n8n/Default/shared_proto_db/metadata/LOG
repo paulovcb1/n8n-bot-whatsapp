@@ -1,2 +1,3 @@
-2025/06/07-01:14:13.927 109da52 Creating DB /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/shared_proto_db/metadata since it was missing.
-2025/06/07-01:14:13.930 109da52 Reusing MANIFEST /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/shared_proto_db/metadata/MANIFEST-000001
+2025/06/08-12:27:26.230 1181e36 Reusing MANIFEST /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/shared_proto_db/metadata/MANIFEST-000001
+2025/06/08-12:27:26.230 1181e36 Recovering log #3
+2025/06/08-12:27:26.230 1181e36 Reusing old log /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/shared_proto_db/metadata/000003.log 

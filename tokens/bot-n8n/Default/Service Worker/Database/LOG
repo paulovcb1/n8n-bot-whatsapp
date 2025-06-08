@@ -1,2 +1,3 @@
-2025/06/07-01:14:14.075 109da52 Creating DB /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/Service Worker/Database since it was missing.
-2025/06/07-01:14:14.092 109da52 Reusing MANIFEST /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/Service Worker/Database/MANIFEST-000001
+2025/06/08-12:27:25.800 1181e36 Reusing MANIFEST /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/Service Worker/Database/MANIFEST-000001
+2025/06/08-12:27:25.803 1181e36 Recovering log #3
+2025/06/08-12:27:25.803 1181e36 Reusing old log /Users/paulobarbosa/Documents/vps-hostinger/tokens/bot-n8n/Default/Service Worker/Database/000003.log 
